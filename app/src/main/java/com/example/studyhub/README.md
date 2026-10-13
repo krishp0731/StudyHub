@@ -29,9 +29,9 @@ Built with a strong focus on clean architecture, state preservation, and reactiv
 
 ## 📱 Application Preview
 
-| Light Mode List | Course Filtering | New Assignment Sheet |
+| Main Task List (Light Mode) | Course Filtered View (Dark Mode) | Add Assignment Sheet |
 | :---: | :---: | :---: |
-| *[Insert Light Mode Screenshot]* | *[Insert Filtered View Screenshot]* | *[Insert Bottom Sheet Screenshot]* |
+| <img src="screenshots/screenshot_main_light.png" width="250"/> | <img src="screenshots/screenshot_filter_dark.png" width="250"/> | <img src="screenshots/screenshot_bottom_sheet.png" width="250"/> |
 
 ---
 
@@ -46,5 +46,5 @@ Built with a strong focus on clean architecture, state preservation, and reactiv
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/StudyHub.git](https://github.com/your-username/StudyHub.git)
+   git clone [https://github.com/krishp0731/StudyHub.git](https://github.com/krishp0731/StudyHub.git)
    cd StudyHub
