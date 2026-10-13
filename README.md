@@ -41,8 +41,8 @@ Built with a strong focus on clean architecture, state preservation, and reactiv
 - Android Studio Ladybug (2024.2.1) or newer
 - Android SDK 26+ (Android 8.0 Oreo or higher)
 - JDK 17
-
-### Installation & Setup
+- 
+- ### Installation & Setup
 
 1. **Clone the repository:**
    ```bash
